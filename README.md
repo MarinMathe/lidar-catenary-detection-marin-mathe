@@ -126,7 +126,7 @@ lidar-catenary-detection
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/lidar-catenary-detection
+git clone https://github.com/MarinMathe/lidar-catenary-detection-marin-mathe
 cd lidar-catenary-detection
 ```
 
